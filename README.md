@@ -6,6 +6,13 @@ Buck Converter from Fixed Until Broken Video. Only changes made since the video 
 Download the Zip file and then upload to your board house.
 PCBs from $0 https://jlcpcb.com/IYB (Free Setup, Free Stencil and Coupons!) 
 
+# Features
+- Reverse Polarity Protection
+- Over Current Limited
+- Thermal Shutdown
+- Transient Voltage Suppression 
+-  5v 1.5 A Output Current
+
 # Parts List
 See BOM.html
 
